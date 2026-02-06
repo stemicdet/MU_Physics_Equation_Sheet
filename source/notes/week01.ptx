@@ -21,12 +21,11 @@ v_\mathrm{f}^2 =  v_\mathrm{i}^2 +
 2 a (x_\mathrm{f} - x_\mathrm{i})
 </md></p></li>
 <li><p><md>
-\mean{v} =  \tfrac{1}{2} 
+v_\mathrm{avg} =  \tfrac{1}{2} 
 (v_\mathrm{f} + v_\mathrm{i}) 
 </md></p></li>
-\endgroup
 <li><p><md>
-  \Delta \vec{r}  = \mean{\vec{v}} \Delta t
+  \Delta \vec{r}  = \vec{v}_\mathrm{avg} \Delta t
 </md></p></li>
 <li><p><md>
 \vec{F}_\mathrm{net} \equiv \sum_i \vec{F}_i
@@ -135,19 +134,19 @@ r_\perp = r \sin (\theta)
 <li><p><md>
   v = r \omega % \sin \theta
 </md></p></li>
-\begingroup
-\allowdisplaybreaks
-\abovedisplayskip=0pt
-\belowdisplayskip=0pt
+
 <li><p><md>
-\theta_\mathrm{f} = \theta_\mathrm{i} + \omega_\mathrm{i} t + \tfrac{1}{2} \alpha t^2 \\
-\omega_\mathrm{f} =  \omega_\mathrm{i} + \alpha t \\
+\theta_\mathrm{f} = \theta_\mathrm{i} + \omega_\mathrm{i} t + \tfrac{1}{2} \alpha t^2</md></p></li> 
+<li><p><md>
+\omega_\mathrm{f} =  \omega_\mathrm{i} + \alpha t </md></p></li> 
+<li><p><md>
 \omega_\mathrm{f}^2 =  \omega_\mathrm{i}^2 + 
-2 \alpha (\theta_\mathrm{f} - \theta_\mathrm{i}) \\
-\mean{\omega} =  \tfrac{1}{2} 
+2 \alpha (\theta_\mathrm{f} - \theta_\mathrm{i}) </md></p></li> 
+
+<li><p><md>
+\omega_\mathrm{avg} =  \tfrac{1}{2} 
 (\omega_\mathrm{f} + \omega_\mathrm{i}) 
 </md></p></li>
-\endgroup
 <li><p><md>
 L = r p \sin \theta = I \omega
 </md></p></li>
@@ -278,6 +277,57 @@ Q = \frac{\Delta V}{\Delta t}
   
   <subsection xml:id="subsec-Moments-of-Inertia">
     <title>Moments of Inertia</title>
-    
+    <p>
+      <ul>
+        <li><p><md>
+\textnormal{hoop about axis} \hspace{0.3cm} I = m r^2
+</md></p></li>
+<li><p><md>
+\textnormal{point particle about axis at distance } r \hspace{0.3cm}  I = m r^2 
+</md></p></li>
+<li><p><md>
+\textnormal{ring about axis} \hspace{0.3cm} I =  \frac{1}{2} m 
+\left( r_1^2 + r_2^2 \right) 
+</md></p></li>
+<li><p><md>
+\textnormal{solid disk about axis} \hspace{0.3cm} I =  \frac{1}{2} m r^2
+</md></p></li>
+<li><p><md>
+\textnormal{solid disk about diameter} \hspace{0.3cm}  
+I =  \frac{1}{4} m r^2 + \frac{1}{12} m \ell^2
+</md></p></li>
+<li><p><md>
+\textnormal{thin rod, axis through center}
+\perp \textnormal{to length} \hspace{0.3cm}  
+I =  \frac{1}{12} m \ell^2 
+</md></p></li>
+<li><p><md>
+\textnormal{thin rod, axis through end}
+\perp \textnormal{to length} \hspace{0.3cm}  
+I =  \frac{1}{3} m \ell^2 
+</md></p></li>
+<li><p><md>
+\textnormal{solid sphere about diameter}
+\hspace{0.3cm}  
+I =  \frac{2}{5} m r^2 
+</md></p></li>
+<li><p><md>
+\textnormal{thin spherical shell about diameter}
+\hspace{0.3cm} 
+I =  \frac{2}{3} m r^2 
+</md></p></li>
+<li><p><md>
+\textnormal{hoop about any diameter}
+\hspace{0.3cm}  
+I =  \frac{1}{2} m r^2 
+</md></p></li>
+<li><p><md>
+\textnormal{slab about} \perp 
+\textnormal{axis through center}
+\hspace{0.3cm}  
+I =  \frac{1}{2} m \left( \ell_x^2 + \ell_y^2 \right) 
+</md></p></li>
+      </ul>
+    </p>
   </subsection>
 </section>
