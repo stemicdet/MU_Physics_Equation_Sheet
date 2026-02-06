@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "PHY 201 Formula Sheet",
-  "body": " PHY 201 Formula Sheet   PHY 201       \\endgroup                          %    %     \\begingroup \\allowdisplaybreaks \\abovedisplayskip=0pt \\belowdisplayskip=0pt \\endgroup                                          Moments of Inertia   "
+  "body": " PHY 201 Formula Sheet   PHY 201                                 %    %                                                   Moments of Inertia                  "
 },
 {
   "id": "notes-week-02",
