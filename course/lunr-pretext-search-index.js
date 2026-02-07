@@ -25,7 +25,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "PHY 201 Formula Sheet",
-  "body": " PHY 201 Formula Sheet   PHY 201                                 %    %                                                   Moments of Inertia                  "
+  "body": " PHY 201 Formula Sheet   PHY 201                                 %    %                                                   Moments of Inertia                   Page 2                                  vacuum permeability                 Density of air at sea level at 15 C:     Earth's total magnetic field strength at Huntington, WV:     Vertical component of Earth's magnetic field strength at Huntington, WV:                   Page 3                                              Prefixes    giga [G]:  centi [c]:  nano [n]:    mega [M]:  milli [m]:  pico [p]:    kilo [k]:  micro [ ]:  femto [f]:      "
+},
+{
+  "id": "subsec-Page-3-3",
+  "level": "2",
+  "url": "notes-week-01.html#subsec-Page-3-3",
+  "type": "Table",
+  "number": "1",
+  "title": "Prefixes",
+  "body": " Prefixes    giga [G]:  centi [c]:  nano [n]:    mega [M]:  milli [m]:  pico [p]:    kilo [k]:  micro [ ]:  femto [f]:    "
 },
 {
   "id": "notes-week-02",
