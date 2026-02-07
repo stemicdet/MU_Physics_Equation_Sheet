@@ -330,4 +330,449 @@ I =  \frac{1}{2} m \left( \ell_x^2 + \ell_y^2 \right)
       </ul>
     </p>
   </subsection>
+
+  <subsection xml:id="subsec-Page-2">
+    <title>Page 2</title>
+
+    <ul>
+      <li><p><md>
+ \textrm{circumference of a circle ; } C =  2 \pi r
+</md></p></li>
+<li><p><md>
+ \textrm{area of a circle ; } A =  \pi r^2
+</md></p></li>
+<li><p><md>
+ \textrm{surface area of a sphere ; } A =  4 \pi r^2
+</md></p></li>
+<li><p><md>
+ \textrm{volume of a sphere ; } V =  \frac{4}{3} \pi r^3
+</md></p></li>
+<li><p><md>
+\textrm{If } A x^2 + B x + C = 0 \textrm{,  } 
+x = \frac{{-B \pm \sqrt{B^2 - 4 A C }}}{2 A}
+</md></p></li>
+<li><p><md>
+ \log_a (xy) =  \log_a (x) +  \log_a (y)
+</md></p></li>
+<li><p><md>
+ \log_a \left(\frac{x}{y}\right) =  \log_a (x) -  \log_a (y)
+</md></p></li>
+<li><p><md>
+ \log_a \left(x^y\right) =  y\log_a (x)
+</md></p></li>
+<li><p><md>
+\mathrm{If \;}  a^x = y
+\mathrm{, \;}
+ x = \log_a y = \frac{\log_{10} y}{\log_{10} a}
+ = \frac{\ln y}{\ln a}
+</md></p></li>
+<li><p><md>
+\mathrm{If \;} \lvert \theta \rvert &lt; 0.5 
+\mathrm{\; radians, \;}
+ \sin (\theta) \approx \theta
+ \mathrm{\; (in \; radians) \;}
+</md></p></li>
+<li><p><md>
+\mathrm{If \;} \lvert \theta \rvert &lt; 0.5 
+\mathrm{\; radians, \;}
+ \tan (\theta) \approx \theta
+ \mathrm{\; (in \; radians) \;}
+</md></p></li>
+<li><p><md>
+ \sin (-\theta) = - \sin (\theta)
+</md></p></li>
+<li><p><md>
+ \cos (-\theta) =  \cos (\theta)
+</md></p></li>
+<li><p><md>
+\sin(\theta_A + \theta_B) = \sin(\theta_A) \cos(\theta_B) + \cos(\theta_A) \sin(\theta_B)
+</md></p></li>
+<li><p><md>
+\cos(\theta_A + \theta_B) = \cos(\theta_A) \cos(\theta_B) - \sin(\theta_A) \sin(\theta_B)
+</md></p></li>
+<li><p><md>
+\sin(\theta_A) \sin(\theta_B) = 
+\frac{\cos(\theta_A - \theta_B) - 
+ \cos(\theta_A + \theta_B)}{2}
+</md></p></li>
+<li><p><md>
+\cos(\theta_A) \cos(\theta_B) = 
+\frac{\cos(\theta_A - \theta_B) + 
+ \cos(\theta_A + \theta_B)}{2}
+</md></p></li>
+<li><p><md>
+\sin(\theta_A) \cos(\theta_B) = 
+\frac{\sin(\theta_A - \theta_B) + 
+ \sin(\theta_A + \theta_B)}{2}
+</md></p></li>
+<li><p><md>
+ \textnormal{Law of Cosines}  \hspace{0.5cm}
+ c^2 = a^2 + b^2 - 2 a b \cos (C)
+</md></p></li>
+<li><p><md>
+ \textnormal{Law of Sines}  \hspace{0.5cm}
+ \frac{a}{\sin (A)} =  \frac{b}{\sin (B)} =  \frac{c}{\sin (C)} 
+</md></p></li>
+<li><p><md>
+  \left.
+  \begin{array}{rcl}
+  x \amp = \amp r \cos (\theta) \\
+  y \amp = \amp r \sin (\theta)
+  \end{array}
+  \right\}
+  \Longleftrightarrow
+  \left\{
+  \begin{array}{rcl}
+  r \amp = \amp \sqrt{x^2 + y^2} \\
+  \theta \amp = \amp \tan^{-1} \left( y/x \right)
+  + \left\{
+  \begin{array}{l}
+      0^{\circ} \mathrm{, \; if \; } x &lt; 0 \\
+      180^{\circ} \mathrm{, \; otherwise }
+   \end{array}
+   \right .
+  \end{array}
+  \right.
+</md></p></li>
+
+<li><p><md>
+\mathrm{If \; } \vec{R} =  \vec {A} + \vec{B} , \;
+R_x =  A_x + B_x \; \mathrm{and} \; 
+R_y =  A_y + B_y
+</md></p></li>
+<li><p><md>
+\mathrm{If \; } \vec{R} =  \vec {A} - \vec{B} , \;
+R_x =  A_x - B_x \; \mathrm{and} \; 
+R_y =  A_y - B_y
+</md></p></li>
+<li><p><md>
+ \vec{A}\cdot\vec{B} =  \vec{B}\cdot\vec{A}  =  A_x  B_x + A_y B_y + A_z B_z  =  \lvert \vec{A} \rvert \lvert \vec{B} \rvert \cos(\theta)
+</md></p></li>
+<li><p><md>
+ \lvert \vec{A} \times \vec{B} \rvert = \lvert \vec{A} \rvert \lvert \vec{B} \rvert \lvert \sin(\theta) \rvert
+</md></p></li>
+<li><p><md>
+\textnormal{Newton's constant}  \hspace{0.5cm}
+G = 6.67430 \! \times \!  10^{-11} \; 
+\frac{\mathrm{m}^3}{\mathrm{kg}\cdot \mathrm{s}^2} 
+</md></p></li>
+<li><p><md>
+\textrm{speed of light  }  
+ c \equiv 2.99792458 \times 10^8 \textnormal{ m/s}
+</md></p></li>
+<li><p><md>
+\textnormal{elementary charge  }  
+ e = 1.602176634 \!\times\! 10^{-19} \textnormal{ C}
+</md></p></li>
+<li><p><md>
+\mathrm{electrostatic \; constant \;}
+k = 8.987551792 \!\times\! 10^9 
+\frac{\mathrm{\; N}\cdot \mathrm{m}^2}{\mathrm{C}^2} 
+</md></p></li>
+<li><p><md>
+\mathrm{vacuum}\; \mathrm{permittivity \; }
+ \epsilon_0 = 8.854187813 \!\times\! 10^{-12} \mathrm{\; F/m}
+</md></p></li>
+<li>
+  <p>
+    vacuum permeability
+    <md>
+      <mrow> \mu_0 \amp = 1.2566370621\!\times\! 10^{-6} 
+ \mathrm{\; N} \cdot \mathrm{A}^{-2} </mrow>
+ <mrow> \amp \approx
+ 4 \pi \!\times\! 10^{-7} 
+ \mathrm{\; N} \cdot \mathrm{A}^{-2} </mrow>
+    </md>
+  </p>
+</li>
+
+<li><p><md>
+\textnormal{Planck's constant} \;
+ h = 6.62607015 \!\times\! 10^{-34}  
+ \mathrm{\; J} \cdot \mathrm{s}
+</md></p></li>
+<li><p><md>
+\hbar \equiv \frac{h}{2 \pi} = 1.054571817 \!\times\! 10^{-34}  
+ \mathrm{\; J} \cdot \mathrm{s}
+</md></p></li>
+<li><p><md>
+\textnormal{standard gravity} \hspace{0.5 cm}
+g = +9.80665 \; \frac{\mathrm{m}}{\mathrm{s}^2}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of  earth} \hspace{0.5 cm} m_\mathrm{earth} = 5.9723 \!\times\! 10^{24} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of moon} \hspace{0.5 cm} m_\mathrm{moon} = 7.346 \!\times\! 10^{22} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of sun} \hspace{0.5 cm} m_\mathrm{sun} = 1.9885 \!\times\! 10^{30} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of electron} \hspace{0.3 cm} m_\mathrm{e} = 9.1093837015 \!\times\! 10^{-31} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of proton} \hspace{0.3 cm} m_\mathrm{p} = 
+1.67262192369 \!\times\! 10^{-27} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{mass of neutron} \hspace{0.3 cm} m_\mathrm{n} = 1.67492749804  \!\times\! 10^{-27} \; \mathrm{kg}
+</md></p></li>
+<li><p><md>
+\textnormal{volumetric radius of earth} \hspace{0.3 cm} r_\mathrm{earth} = 
+6.371 \!\times\! 10^{6} \; \mathrm{m}
+</md></p></li>
+<li><p><md>
+\textnormal{earth-moon distance} \hspace{0.3 cm} r_\mathrm{EM} = 
+3.844 \!\times\! 10^{8} \; \mathrm{m}
+</md></p></li>
+<li><p><md>
+\textnormal{earth-sun distance} \hspace{0.3 cm} r_\mathrm{ES} = 
+1.496 \!\times\! 10^{11} \; \mathrm{m}
+</md></p></li>
+<li>
+  <p>
+    Density of air at sea level at 15<m>^\circ</m> C:
+    <md>
+      \rho_0 = 1.225 \frac{\mathrm{kg}}{\mathrm{m}^3}
+    </md>
+    
+  </p>
+</li>
+<li>
+  <p>
+    Earth's total magnetic field strength at Huntington, WV:
+    <md>
+      \lvert \vec{B}_\mathrm{earth} \rvert \approx
+5.15 \!\times\! 10^{-5} \; \mathrm{T}
+    </md>
+    
+  </p>
+</li>
+<li>
+  <p>
+    Vertical component of Earth's magnetic field strength at Huntington, WV:
+    <md>
+      B_{\mathrm{earth},z} \approx
+4.70 \!\times\! 10^{-5} \; \mathrm{T}
+    </md>
+    
+  </p>
+</li>
+<li>
+  <p>
+    <md>
+      <mrow> \textnormal{Bohr radius} \hspace{0.5cm} a_B \amp \equiv 
+\frac{\hbar^2}{m_\mathrm{e} k e^2} </mrow>
+<mrow> \amp = 5.29177210903 \!\times\! 10^{-11} \; \mathrm{m}</mrow>
+    </md>
+  </p>
+</li>
+<li>
+  <p>
+    <md>
+      <mrow> \textnormal{Rydberg constant} \hspace{0.3cm} \amp \equiv 
+\frac{\hbar}{4 \pi m_\mathrm{e} a_B^2 c}</mrow>
+<mrow> \amp = 1.0973731568160  \times 10^7 \; \mathrm{m}^{-1}</mrow>
+    </md>
+  </p>
+</li>
+
+<li><p><md>
+\textnormal{hydrogen binding energy} \hspace{0.3cm} 
+E_0 
+= 13.605693123 \; \mathrm{eV}
+</md></p></li>
+<li><p><md>
+\textnormal{scale for nuclear radius} 
+\hspace{0.3cm} 
+ r_\mathrm{nuc} = 1.2 \!\times\! 10^{-11} \; \mathrm{m}
+</md></p></li>
+    </ul>
+    
+  </subsection>
+
+  <subsection xml:id="subsec-Page-3">
+    <title>Page 3</title>
+
+    <ul>
+      <li><p><md>
+1 \; \mathrm{newton \;  [N]} \equiv 1 \;
+\frac{\mathrm{kilogram} \cdot \mathrm{meter}}{ \mathrm{second}^2}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{joule \; [J]} \equiv 1 \; \mathrm{newton} \cdot \mathrm{meter}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{watt \; [W]} = 
+1 \; \frac{\mathrm{joule}}{\mathrm{second}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{radian} \equiv \frac{180^\circ}{\pi} 
+\approx 57.29577951^\circ
+</md></p></li>
+
+<li>
+  <p>
+    <md>
+      <mrow> 1 \; \frac{\mathrm{radian}}{\mathrm{second}} \amp \equiv \frac{60}{2 \pi} \; \mathrm{rpm} </mrow>
+      <mrow> \amp \approx 9.549296586 \; \mathrm{rpm} </mrow>
+    </md>
+  </p>
+</li>
+
+<li><p><md>
+1 \; \mathrm{hertz \; [Hz]} \equiv 1 \; \mathrm{second}^{-1}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{pascal \; [Pa]} \equiv 1 \; 
+\frac{\mathrm{newton}}{\mathrm{meter}^2}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{volt \; [V]} \equiv 
+1 \; \frac{\mathrm{joule}}{\mathrm{coulomb}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{electron-volt \; [eV]} = 
+1.602176565 \!\times\! 10^{-19} \mathrm{joule}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{farad \; [F]} \equiv 
+1 \; \frac{\mathrm{coulomb}}{\mathrm{volt}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{ampere \; [A]} \equiv
+1 \; \frac{\mathrm{coulomb}}{\mathrm{second}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{ohm} \; [\Omega] \equiv
+1 \; \frac{\mathrm{volt}}{\mathrm{ampere}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{tesla} \equiv 
+1 \; \frac{\mathrm{newton}}{\mathrm{ampere}\cdot
+\mathrm{meter}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{gauss \; [G]} \equiv 10^{-4} \; \mathrm{tesla}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{henry \; [H]} \equiv 
+1 \; \mathrm{ohm} \cdot \mathrm{second}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{diopter \; [D]} \equiv 1 \; \mathrm{meter}^{-1}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{dalton \; [u]} = 
+1.66053873 \!\times\! 10^{-27} \; \mathrm{kilogram}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{becquerel \; [Bq]} \equiv 
+1 \frac{\mathrm{decay}}{\mathrm{second}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{curie \; [Ci]} \equiv
+3.7 \! \times \! 10^{10} \; \mathrm{becquerel}
+</md></p></li>
+<li><p><md>
+ 1 \; \mathrm{rad} \equiv 
+ 0.01 \; \frac{\mathrm{joule}}{\mathrm{kilogram}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{gray} \equiv 
+ 1 \; \frac{\mathrm{joule}}{\mathrm{kilogram}}
+ = 100 \; \mathrm{rad}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{rem} \equiv   
+1 \; \mathrm{rad} \cdot RBE
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{sievert \; [Sv]} \equiv   
+1 \; \mathrm{gray} \cdot RBE = 
+100 \; \mathrm{rem}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{inch \; [in]} \equiv   
+0.0254 \; \mathrm{meter} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{foot \; [ft]} =   
+0.3048 \; \mathrm{meter} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{mile \; [mi]} = 
+1609.344 \; \mathrm{meter} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{light \; year \; [ly]} = 
+9.4605284 \!\times\! 10^{15} \; \mathrm{meter} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{ounce mass \; [oz]} =   
+0.02835 \; \mathrm{kilogram} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{pound mass \; [lb]} =
+0.4536 \; \mathrm{kilogram} 
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{mile \; per \; hour \; [mph]} =
+0.44704 \; \frac{\mathrm{meter}}{\mathrm{second}}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{foot \; pound \; [ft \! \cdot \! lb]} =
+1.3558179 \; \mathrm{joule}
+</md></p></li>
+<li><p><md>
+1 \; \textnormal{centipoise [cP]}  \equiv 0.1 \;
+\textnormal{pascal} \cdot \textnormal{second}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{kiloton \; [kt]} =
+4.184 \!\times\! 10^{12} \; \mathrm{joule}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{horsepower \; [hp]} =
+745.69987 \; \mathrm{watt}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{atmosphere \; [atm]} = 
+1.0132501 \!\times\! 10^{5} \; \mathrm{pascal}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{mm \; of \; mercury \; [mmHg]} =
+133.32239 \; \mathrm{pascal}
+</md></p></li>
+<li><p><md>
+1 \; \mathrm{pound \; per \; square \; inch \; [psi]} =
+6894.75728 \; \mathrm{pascal}
+</md></p></li>
+    </ul>
+
+    
+<table>
+  <title>Prefixes</title>
+  <tabular>
+    <row>
+      <cell><p>giga [G]: <m>10^{9}</m></p></cell>
+      <cell><p>centi [c]: <m>10^{-2}</m></p></cell>
+      <cell><p>nano [n]: <m>10^{-9}</m></p></cell>
+    </row>
+    <row>
+      <cell><p>mega [M]: <m>10^{6}</m></p></cell>
+      <cell><p>milli [m]: <m>10^{-3}</m></p></cell>
+      <cell><p>pico [p]: <m>10^{-12}</m></p></cell>
+    </row>
+    <row>
+      <cell><p>kilo [k]: <m>10^{3}</m></p></cell>
+      <cell><p>micro [<m>\mu</m>]: <m>10^{-6}</m></p></cell>
+      <cell><p>femto [f]: <m>10^{-15}</m></p></cell>
+    </row>
+  </tabular>
+</table>
+
+    
+  </subsection>
 </section>
