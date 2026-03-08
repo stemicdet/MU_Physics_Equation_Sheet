@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="notes-week-01">
-  <title>PHY 201 Formula Sheet</title>
+  <title>Marshall University Algebra-based Introductory Physics Formula Sheet for Common Final Exam</title>
 
   <subsection xml:id="subsec-PHY-201">
     <title>PHY 201</title>
@@ -775,4 +775,362 @@ E_0
 
     
   </subsection>
+
+<subsection xml:id="subsec-PHY-203">
+  <title>PHY 203</title>
+
+<ul>
+  <li><p><md>
+q = N e
+</md></p></li>
+<li><p><md>
+  F = k \frac{\lvert q_1 q_2 \rvert}{r^2}
+</md></p></li>
+<li><p><md>
+\vec{E} \equiv \frac{\vec{F}}{q}
+</md></p></li>
+<li><p><md>
+  E = k \frac{\lvert q \rvert}{r^2}
+</md></p></li>
+<li><p><md>
+\mathrm{PE} = U = k \frac{q_1 q_2}{r} 
+</md></p></li>
+<li><p><md>
+\mathrm{V} \equiv \frac{U}{q} = \frac{-\mathrm{W}}{q}
+</md></p></li>
+<li><p><md>
+\mathrm{V} = k \frac{q}{r} 
+</md></p></li>
+<li><p><md>
+E_x = - \frac{\Delta \mathrm{V}(x)}{\Delta x}
+</md></p></li>
+<li><p><md>
+\Phi_{E} = \vec{E}\cdot \vec{A}  = A \lvert \vec{E} \rvert \cos \theta
+</md></p></li>
+<li><p><md>
+\Phi_E = \frac{q_\textnormal{enclosed}}{\epsilon_0}
+</md></p></li>
+<li><p><md>
+C \equiv \frac{q}{\mathrm{V}}
+</md></p></li>
+<li><p><md>
+C = \frac{\kappa \epsilon_0 A}{d}
+</md></p></li>
+<li><p><md>
+\frac{1}{C_\mathrm{series}} = 
+\frac{1}{C_1} + \frac{1}{C_2} + \ldots
+</md></p></li>
+<li><p><md>
+C_\mathrm{parallel} = C_1 + C_2 + \ldots
+</md></p></li>
+<li><p><md>
+U_{E} = \tfrac{1}{2} q \mathrm{V}
+ = \tfrac{1}{2} \frac{q^2}{C}
+= \tfrac{1}{2} C \mathrm{V}^2
+</md></p></li>
+<li><p><md>
+u_{E} = \tfrac{1}{2} \epsilon_0 \lvert \vec{E} \rvert^2
+</md></p></li>
+<li><p><md>
+I = \frac{\Delta q}{\Delta t}
+</md></p></li>
+<li><p><md>
+\vec{I} = n q A \vec{v}_\mathrm{drift}
+</md></p></li>
+<li><p><md>
+\mathrm{V} = I R
+</md></p></li>
+<li><p><md>
+R = \frac{\rho \ell}{A}
+</md></p></li>
+<li><p><md>
+\rho = \rho_0 (1 + \alpha \Delta T)
+</md></p></li>
+<li><p><md>
+R = R_0 (1 + \alpha \Delta T)
+</md></p></li>
+<li><p><md>
+P = I \mathrm{V}
+ = \frac{\mathrm{V}^2}{R}
+ = I^2 R
+</md></p></li>
+<li><p><md>
+R_\mathrm{series} = R_1 + R_2 + \ldots
+</md></p></li>
+<li><p><md>
+\frac{1}{R_\mathrm{parallel}} = 
+\frac{1}{R_1} + 
+\frac{1}{R_2} + \ldots
+</md></p></li>
+<li><p><md>
+  Q_\mathrm{max} = {\cal E} C
+</md></p></li>
+<li><p><md>
+\tau_{C} = R C
+</md></p></li>
+<li><p><md>
+I(t) = I_\mathrm{max} e^{-t/\tau}
+</md></p></li>
+<li><p><md>
+  \mathrm{V}_C = \mathrm{V}_\mathrm{battery} \left ( 1 - e^{-t/\tau} \right )
+</md></p></li>
+<li><p><md>
+  I(t) = - I_\mathrm{max} e^{-t/\tau}
+  </md></p></li>
+<li><p><md>
+\mathrm{V}_C = \mathrm{V}_\mathrm{battery}  e^{-t/\tau} 
+</md></p></li>
+<li><p><md>
+F_B = q v_{\perp} B = q v B \sin \theta
+</md></p></li> 
+<li><p><md>
+R = \frac{m v_{\perp}}{q B}
+</md></p></li>
+<li><p><md>
+F = I \ell B \sin \theta 
+</md></p></li>
+<li><p><md>
+\mu = N I A 
+</md></p></li>
+<li><p><md>
+\tau = \mu B \sin \theta 
+</md></p></li>
+<li><p><md>
+U = -\mu B \cos \theta 
+</md></p></li>
+<li><p><md>
+B_{wire} = \frac{\mu_0 I}{2 \pi r}
+</md></p></li>
+<li><p><md>
+B_{loop} = \frac{N \mu_0 I}{2 r}
+</md></p></li>
+<li><p><md>
+B_{solenoid} = \frac{N \mu_0 I}{\ell} = n \mu_0 I
+</md></p></li>
+<li><p><md>
+\frac{F}{\ell} = \frac{\mu_0 I_1 I_2 }{2 \pi r} 
+</md></p></li>
+<li><p><md>
+{\cal E} = v_{\perp} B {\ell}  = v B {\ell} \sin \theta
+</md></p></li>
+<li><p><md>
+\Phi_B \equiv \vec{B}\cdot \vec{A}  = B A \cos \theta
+</md></p></li>
+<li><p><md>
+{\cal E} = - \frac{\Delta \Phi_\textrm{tot}}{\Delta t} = - N \frac{\Delta \Phi_1}{\Delta t}
+</md></p></li>
+<li><p><md>
+{\cal E} =  N A B \omega \sin(\omega t)
+</md></p></li>
+<li><p><md>
+{\cal E}  = - L \frac{\Delta I}{\Delta t}
+</md></p></li>
+<li><p><md>
+  L = \mu_0 \left (\frac{N^2}{\ell} \right ) A
+</md></p></li>
+<li><p><md>
+U_{B} = \frac{1}{2} L I^2
+</md></p></li>
+<li><p><md>
+u_{B} = \frac{1}{2 \mu_0} B^2
+</md></p></li>
+<li><p><md>
+\tau_{L} = \frac{L}{R}
+</md></p></li>
+<li><p><md>
+  I(t) = \frac{V_\mathrm{baterry}}{R} \left(1 - e^{-t/\tau} \right )
+</md></p></li>
+<li><p><md>
+\lvert \vec{E} \rvert = c \lvert \vec{B} \rvert 
+</md></p></li>
+<li><p><md>
+c = \frac{1}{\sqrt{\mu_0 \epsilon_0}}
+</md></p></li>
+<li><p><md>
+v = f \lambda
+</md></p></li>
+<li><p><md>
+I = \frac{P_{source}}{A} = \frac{P_{source}}{4 \pi r^2}
+</md></p></li>
+<li><p><md>
+I =  \tfrac{1}{2} c\epsilon_0 E_0^2 = \tfrac{1}{2} \frac{c}{\mu_0} B_0^2
+</md></p></li>
+<li><p><md>
+I_p = \tfrac{1}{2} I_0 (\cos \theta)^2
+</md></p></li>
+<li><p><md>
+E_{photon}=h f
+</md></p></li>
+<li><p><md>
+\frac{Q}{\Delta t} = e \sigma A T^4
+</md></p></li>
+<li><p><md>
+\lambda_{peak} = \frac{b}{T}
+</md></p></li>
+<li><p><md>
+\mathrm{v}(t) = \mathrm{V}_0 \cos(\omega t)
+</md></p></li>
+<li><p><md>
+I_{rms} = \frac{I_{peak}}{\sqrt{2}}
+</md></p></li>
+<li><p><md>
+V_{rms} = \frac{V_{peak}}{\sqrt{2}}
+</md></p></li>
+<li><p><md>
+X_C = \frac{1}{2 \pi f C} = \frac{1}{\omega C}
+</md></p></li>
+<li><p><md>
+X_L = 2 \pi f L = \omega L 
+</md></p></li>
+<li><p><md>
+I_\mathrm{rms} = \frac{\mathrm{V}_\mathrm{rms}}{\left \vert Z \right \vert}
+</md></p></li>
+<li><p><md>
+Z = 
+\sqrt{R^2 + (X_L - X_C)^2}
+</md></p></li>
+<li><p><md>
+P_\mathrm{avg} = I_\mathrm{rms} \mathrm{V}_\mathrm{rms} \cos \phi
+</md></p></li>
+<li><p><md>
+P_\mathrm{avg} = \tfrac{1}{2} I_{peak} \mathrm{V}_{peak}
+=I_\mathrm{rms} \mathrm{V}_\mathrm{rms}
+</md></p></li>
+<li><p><md>
+  \tan \phi = \frac{X_L - X_C}{R}
+</md></p></li>
+<li><p><md>
+\omega_\mathrm{res} = 2 \pi 
+f_\mathrm{res} = \frac{1}{\sqrt{L C}}
+</md></p></li>
+<li><p><md>
+\frac{\mathrm{V}_\mathrm{S}}{\mathrm{V}_\mathrm{P}} = \frac{N_\mathrm{S}}{N_\mathrm{P}} = \frac{I_\mathrm{P}}{I_\mathrm{S}}
+</md></p></li>
+<li><p><md>
+n \equiv \frac{c}{v}
+</md></p></li>
+<li><p><md>
+n_1 \sin(\theta_1) = n_2 \sin(\theta_2)
+</md></p></li>
+<li><p><md>
+\theta_c = \sin^{-1} \left(\frac{n_2}{n_1}\right)
+</md></p></li>
+<li><p><md>
+P = \frac{1}{f} = \frac{1}{s} +\frac{1}{s^{\prime}}
+</md></p></li>
+<li><p><md>
+\frac{1}{f} = \left( \frac{n_\mathrm{l} - n_\mathrm{m}}{n_\mathrm{m}} \right) \left( \frac{1}{R_1} - \frac{1}{R_2} \right)
+</md></p></li>
+<li><p><md>
+m \equiv \frac{h^{\prime}}{h}
+= - \frac{s^{\prime}}{s}
+</md></p></li>
+<li><p><md>
+f = \frac{r}{2}
+</md></p></li>
+<li><p><md>
+m = m_\mathrm{objective} \; m_\mathrm{eyepiece} 
+</md></p></li>
+<li><p><md>
+m \sim \left( \frac{\mathrm{N.P.}}{f_\mathrm{e}} \right)
+\left( \frac{\ell - f_\mathrm{e}}{d_\mathrm{o}} \right)
+</md></p></li>
+<li><p><md>
+M = \frac{\theta_\mathrm{telescope}}{\theta_\textnormal{naked eye}} = - \frac{f_\mathrm{o}}{f_\mathrm{e}}
+</md></p></li>
+<li>
+  <p>
+    <md>
+      <mrow> d \amp \sin(\theta)  = m \lambda </mrow>
+      <mrow> \amp \textnormal{where } m \in \{ 0, \pm 1,  \pm 2, \ldots \}</mrow>
+    </md>
+  </p>
+</li>
+<li>
+  <p>
+    <md>
+      <mrow> d \amp \sin(\theta) =  \left(m - \frac{1}{2}\right) \lambda </mrow>
+      <mrow> \amp \textnormal{where } m \in \{  1,  2, \ldots \} </mrow>
+    </md>
+  </p>
+</li>
+<li><p><md>
+y = L\frac{m \lambda}{d}
+</md></p></li>
+<li><p><md>
+\sin(\theta) = 1.22 \frac{\lambda}{D}
+</md></p></li>
+<li><p><md>
+E = \Delta m c^2
+</md></p></li>
+<li><p><md>
+E_{photon} = h f = p c
+</md></p></li>
+<li><p><md>
+E_{photon} = h f = \hbar \omega = \frac{h c}{\lambda}
+</md></p></li>
+<li><p><md>
+\Delta r = 2 d \cos \theta_m = m \lambda;~ m = 1, 2, 3, ...
+</md></p></li>
+<li><p><md>
+V_{stop}= \frac{K_{max}}{e}
+</md></p></li>
+<li><p><md>
+\lambda = \frac{h}{p} = \frac{h}{mv}
+</md></p></li>
+<li><p><md>
+r_n = \frac{n^2}{Z} a_\mathrm{B}
+</md></p></li>
+<li><p><md>
+n \lambda_n = \frac{n h }{m_\mathrm{e} v_n} = 2 \pi r_n
+</md></p></li>
+<li><p><md>
+E_n = -\frac{Z^2}{n^2} (13.6 \textnormal{ eV})
+</md></p></li>
+<li><p><md>
+\frac{1}{\lambda} = \left(\frac{1}{n_\mathrm{f}^2}  
+- \frac{1}{n_\mathrm{i}^2}\right) \mathcal{R}
+</md></p></li>
+<li><p><md>
+Q = (M_A + M_B - M_C - M_D) c^2
+</md></p></li>
+<li><p><md>
+\lvert \vec{L} \rvert = m_\mathrm{e} v r_n = n \frac {h}{2\pi}= n \hbar 
+</md></p></li>
+<li><p><md>
+v_n = \frac{nh}{2 \pi m r_n} = \frac {2 \pi k e^2}{nh}
+</md></p></li>
+<li><p><md>
+r_n = (\frac {h^2}{4 \pi^2 mkZe^2})n^2
+</md></p></li>
+<li><p><md>
+N(t) = N_0 e^{-\lambda t} = N_0 2^{-t/t_{1/2}}
+</md></p></li>
+<li><p><md>
+\lambda = \frac{\ln 2}{t_{1/2}}
+</md></p></li>
+<li><p><md>
+R \equiv \frac{\Delta N}{\Delta t}
+</md></p></li>
+<li><p><md>
+R = N \lambda = \frac{N \ln 2}{t_{1/2}}
+</md></p></li>
+<li><p><md>
+  r = r_\mathrm{nuc} A^{1/3}
+</md></p></li>
+<li>
+  <p>
+    <term>Hydrogen Specturm Series</term>
+    <md number="no">
+      <mrow> \textnormal{Lymann: } \amp n_\mathrm{f} = 1 </mrow>
+      <mrow> \textnormal{Balmer: } \amp n_\mathrm{f} = 2 </mrow>
+      <mrow> \textnormal{Paschen: } \amp n_\mathrm{f} = 3 </mrow>
+    </md>
+  </p>
+</li>
+</ul>
+  
+</subsection>
+
+
 </section>

@@ -1,28 +1,303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="notes-week-02">
-  <title>Week 2</title>
+  <title>Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam</title>
 
   <subsection>
-    <title>Monday</title>
+    <title>PHY 211</title>
 
-    <p>
-    </p>
+  <ul>
+    <li><p><md>
+\vec v(t) = \frac{\mathrm{d} \vec r(t)}{\mathrm{d}t}
+</md></p></li>
+<li><p><md>
+\vec v(t) = 
+\frac{\mathrm{d} x(t)}{\mathrm{d}t}\hat i
++ \frac{\mathrm{d} y(t)}{\mathrm{d}t} \hat j
++ \frac{\mathrm{d} z(t)}{\mathrm{d}t} \hat k
+</md></p></li>
+<li><p><md>
+\vec a(t) = \frac{\mathrm{d}\vec v(t)}{\mathrm{d}t}
+   = \frac{\mathrm{d}^2 \vec r(t)}{\mathrm{d} t^2}
+</md></p></li>
+<li><p><md>
+x(t) = x_0+\int_0^t v(t) \mathrm{d} t
+</md></p></li>
+<li><p><md>
+v(t) = v_0+\int_0^t a(t) \mathrm{d} t
+</md></p></li>
+<li>
+  <p>
+    <md>
+      <mrow> \amp x_\mathrm{f} = x_\mathrm{i} + v_\mathrm{i} t + \tfrac{1}{2} a t^2 </mrow>
+      <mrow> \amp v_\mathrm{f} =  v_\mathrm{i} + a t</mrow>
+      <mrow> \amp v_\mathrm{f}^2 =  v_\mathrm{i}^2 + 2 a (x_\mathrm{f} - x_\mathrm{i}) </mrow>
+      <mrow> \amp v_\mathrm{avg} =  \tfrac{1}{2} (v_\mathrm{f} + v_\mathrm{i}) =\frac{\Delta x}{\Delta t}</mrow>
+    </md>
+  </p>
+</li>
+<li><p><md>
+\vec{F}_\mathrm{net} = \sum {\vec{F}_i}
+ = m \vec{a}
+</md></p></li>
+<li><p><md>
+\vec{ F}_g = m \vec{g}
+</md></p></li>
+<li><p><md>
+\lvert \vec{F}_\mathrm{s} \rvert \leq \mu_\mathrm{s} \lvert \vec{N} \rvert
+</md></p></li>
+<li><p><md>
+\lvert \vec{F}_\mathrm{k} \rvert  = \mu_\mathrm{k} \lvert \vec{N} \rvert
+</md></p></li>
+<li><p><md>
+\vec{F}_\mathrm{spr} = - k \vec{\Delta L}
+</md></p></li>
+<li><p><md>
+\vec{F}_\mathrm{P} = \vec{F}_\mathrm{N} = P \vec{A}
+</md></p></li>
+<li><p><md>
+ Y = \frac{\Delta P}{\Delta L / L_0}
+</md></p></li>
+<li><p><md>
+ S = \frac{\Delta P}{\Delta x / h}
+</md></p></li>
+<li><p><md>
+\vec{v_t} = \vec{r} \times \vec{\omega}
+</md></p></li>
+<li><p><md>
+a_\mathrm{c} =
+\frac{v_\mathrm{t}^2}{r}
+= r \omega^2 = v_t \omega
+</md></p></li>
+<li><p><md>
+\vec{a} = \vec{a_\mathrm{c}} +\vec{a_t}
+</md></p></li>
+<li><p><md>
+\vec{F}_G = - G \frac{m_1 m_2}{r^2} \hat{r}
+</md></p></li>
+<li><p><md>
+g = G \frac{m_\mathrm{earth}}{r^2_\mathrm{earth}}
+</md></p></li>
+<li><p><md>
+W = \vec{F}\cdot\vec{d} 
+= F d\cos (\theta)
+</md></p></li>
+<li><p><md>
+  W = \int_{x_\mathrm{i}}^{x_\mathrm{f}} F_x \mathrm{d} x
+</md></p></li>
+<li><p><md>
+  W = \int_{P_\mathrm{i}}^{P_\mathrm{f}} 
+    \vec{F} \cdot \mathrm{d} \vec{\ell}
+</md></p></li>
+<li><p><md>
+P_{av}=\frac{\Delta W}{\Delta t}
+</md></p></li>
+<li><p><md>
+P=\frac{d W}{d t}
+</md></p></li>
+<li><p><md>
+\mathrm{KE} = K= \tfrac{1}{2} m v^2
+</md></p></li>
+<li><p><md>
+W_\mathrm{net} = \Delta K
+</md></p></li>
+<li><p><md>
+W_\mathrm{cons} = -\Delta U = -\Delta \mathrm{PE}
+</md></p></li>
+<li><p><md>
+K_1  + U_{1} = K_2  + U_{2}
+</md></p></li>
+<li><p><md>
+\mathrm{PE}_G = U_G = - G \frac{m_1 m_2}{r}
+</md></p></li>
+<li><p><md>
+U_G = m g h
+</md></p></li>
+<li><p><md>
+\mathrm{PE}_\mathrm{S} = U_\mathrm{S} = \tfrac{1}{2} k x^2
+</md></p></li>
+<li><p><md>
+ F_x (x)  = -\frac{\mathrm{d} U(x)}{\mathrm{d} x}
+</md></p></li>
+<li><p><md>
+ F_x (x)  = - k x
+</md></p></li>
+<li><p><md>
+\vec{r}_\mathrm{cm} = \frac{\sum_i m_i \vec{r}_i}{\sum_i m_i}
+</md></p></li>
+<li><p><md>
+\vec{v}_\mathrm{cm} = \frac{\sum_i m_i \vec{v}_i}{\sum_i m_i}
+</md></p></li>
+<li><p><md>
+\vec{a}_\mathrm{cm}= \frac{\sum_i m_i \vec{a}_i}{\sum_i m_i}
+</md></p></li>
+<li><p><md>
+\vec{p} = m \vec{v}
+</md></p></li>
+<li><p><md>
+\vec{F} = \frac{\mathrm{d} \vec{p}}{\mathrm{d} t}
+</md></p></li>
+<li><p><md>
+\vec{p}_{1,\mathrm{f}} + \vec{p}_{2,\mathrm{f}} = 
+\vec{p}_{1,\mathrm{i}} + \vec{p}_{2,\mathrm{i}}\
+</md></p></li>
+<li><p><md>
+\sum_i \vec{p}_i + \sum_i \vec F_\mathrm{ext} \Delta t = 
+\sum_i \vec{p}_f 
+</md></p></li>
+<li><p><md>
+\vec{\mathcal{J}} = \vec{F} \Delta t = \Delta \vec{p} 
+</md></p></li>
+<li><p><md>
+  \theta =\frac{s}{r}
+</md></p></li>
+<li><p><md>
+ \omega = \frac{d \theta}{d t} = \frac{v_\mathrm{t}}{r} 
+</md></p></li>
+<li><p><md>
+ \alpha = \frac{d \omega}{d t} = \frac{a_\mathrm{t}}{r} 
+</md></p></li>
+<li><p><md>
+\vec{\tau} = \vec{r} \times \vec{F} = I \vec{\alpha}
+</md></p></li>
+<li><p><md>
+\tau = r_\perp F~,~
+r_\perp = r \sin (\theta) 
+</md></p></li>
+<li><p><md>
+\vec{L} = \vec{r} \times \vec{p} = I \vec{\omega}
+</md></p></li>
+<li><p><md>
+L = r m v \sin( \theta)
+</md></p></li>
+<li><p><md>
+\sum_i \vec \tau_i = \frac{d\vec L}{dt}
+</md></p></li>
+<li>
+  <p>
+    <md>
+      <mrow> \amp \theta_\mathrm{f} = \theta_\mathrm{i} + \omega_\mathrm{i} t + \tfrac{1}{2} \alpha t^2 </mrow>
+      <mrow> \amp \omega_\mathrm{f} =  \omega_\mathrm{i} + \alpha t</mrow>
+      <mrow> \amp \omega_\mathrm{f}^2 =  \omega_\mathrm{i}^2 + \alpha (\theta_\mathrm{f} - \theta_\mathrm{i})</mrow>
+      <mrow> \amp \omega_\mathrm{avg} =  \tfrac{1}{2} (\omega_\mathrm{f} + \omega_\mathrm{i})</mrow>
+    </md>
+  </p>
+</li>
+<li><p><md>
+K_\mathrm{rot} = \tfrac{1}{2} I \omega^2
+</md></p></li>
+<li><p><md>
+W = \tau \Delta \theta 
+</md></p></li>
+<li><p><md>
+ \omega = 2 \pi f = \frac{2 \pi}{T}
+</md></p></li>
+<li><p><md>
+ \omega = \sqrt{ \frac{k}{m} }
+</md></p></li>
+<li><p><md>
+ \omega = \sqrt{ \frac{g}{\ell} }
+</md></p></li>
+<li><p><md>
+ \omega = \sqrt{ \frac{m g \ell_\mathrm{CM}}{I} }
+</md></p></li>
+<li><p><md>
+ x(t) = x_0 \sin (\omega t) 
+</md></p></li>
+<li><p><md>
+ v(t) = -x_0  \omega \cos (\omega t)
+</md></p></li>
+<li><p><md>
+ a(t) = - x_0 \omega^2 \sin (\omega t)
+</md></p></li>
+<li><p><md>
+ v = f \lambda 
+</md></p></li>
+<li><p><md>
+  v = \sqrt{ \frac{F}{\mu} }
+  ~;~
+\mu =\frac{m}{\ell}
+</md></p></li>
+<li><p><md>
+  k = \frac{2 \pi}{\lambda}
+</md></p></li>
+<li><p><md>
+y(x,t) = A \sin (k x) \sin(\omega t)  
+</md></p></li>
+<li>
+  <p>
+    <md>
+      <mrow> \amp f_\mathrm{string} = f_\mathrm{open-open} = n \left( \frac{v}{2 \ell} \right) </mrow>
+      <mrow> \amp \hspace{0.3cm} \textnormal{where } n \in \{  1,  2, 3, \ldots \} </mrow>
+    </md>
+  </p>
+</li>
+<li>
+  <p>
+    <md>
+      <mrow> \amp f_\mathrm{open-closed}   = n \left( \frac{v}{4 \ell} \right)</mrow>
+      <mrow> \amp \hspace{0.3cm} textnormal{where } n \in \{  1,  3, 5, \ldots \} </mrow>
+    </md>
+  </p>
+</li>
+<li><p><md>
+ y_\mathrm{tw} (x,t) = A \sin (k x \mp \omega t)
+</md></p></li>
+<li><p><md>
+ f_\mathrm{o} = f_\mathrm{s} 
+   \left( \frac{v \pm v_\mathrm{o}}{v \mp v_\mathrm{s}} \right) 
+</md></p></li>
+<li><p><md>
+ f_\mathrm{beat} = \lvert f_2 - f_1 \rvert 
+</md></p></li>
+<li><p><md>
+I = \frac{P}{A}
+= \frac{P}{4 \pi r^2}
+</md></p></li>
+<li><p><md>
+  I_0 \equiv 1.0 \times 10^{-12} \frac{\mathrm{W}}{\mathrm{m}^2}
+</md></p></li>
+<li><p><md>
+  \beta [\mathrm{dB}] = 10 \log_{10} \left( \frac{I}{I_0} \right)
+</md></p></li>
+<li><p><md>
+ P = \frac{F}{A}
+</md></p></li>
+<li><p><md>
+  \rho = \frac{m}{V}
+</md></p></li>
+<li><p><md>
+\vec{F}_\mathrm{b} =- \rho V  \vec{g}
+</md></p></li>
+<li><p><md>
+ P = P_0 + \rho g h 
+</md></p></li>
+<li><p><md>
+ P_1 + \tfrac{1}{2} \rho v_1^2 + \rho g y_1 = 
+  P_2  + \tfrac{1}{2} \rho v_2^2+ \rho g y_2
+</md></p></li>
+<li><p><md>
+Q = \Phi_v \equiv \vec{v}\cdot \vec{A}  = v  A \cos (\theta)
+</md></p></li>
+<li><p><md>
+Q = \frac{\Delta V}{\Delta t}
+</md></p></li>
+<li><p><md>
+  A_1 v_1 = A_2 v_2
+</md></p></li>
+<li><p><md>
+ \rho v A  = \frac{\Delta m}{\Delta t}
+</md></p></li>
+<li><p><md>
+ \Delta L = \alpha L_0 \Delta T
+</md></p></li>
+<li><p><md>
+ \Delta V = \beta V_0 \Delta T
+</md></p></li>
+  </ul>
+    
   </subsection>
 
 
-  <subsection>
-    <title>Wednesday</title>
-
-    <p>
-    </p>
-  </subsection>
-
-
-  <subsection>
-    <title>Friday</title>
-
-    <p>
-    </p>
-  </subsection>
+  
 </section>
