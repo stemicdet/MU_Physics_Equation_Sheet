@@ -24,8 +24,8 @@ var ptx_lunr_docs = [
   "url": "notes-week-01.html",
   "type": "Section",
   "number": "",
-  "title": "PHY 201 Formula Sheet",
-  "body": " PHY 201 Formula Sheet   PHY 201                                 %    %                                                   Moments of Inertia                   Page 2                                  vacuum permeability                 Density of air at sea level at 15 C:     Earth's total magnetic field strength at Huntington, WV:     Vertical component of Earth's magnetic field strength at Huntington, WV:                   Page 3                                              Prefixes    giga [G]:  centi [c]:  nano [n]:    mega [M]:  milli [m]:  pico [p]:    kilo [k]:  micro [ ]:  femto [f]:      "
+  "title": "Marshall University Algebra-based Introductory Physics Formula Sheet for Common Final Exam",
+  "body": " Marshall University Algebra-based Introductory Physics Formula Sheet for Common Final Exam   PHY 201                                 %    %                                                   Moments of Inertia                   Page 2                                  vacuum permeability                 Density of air at sea level at 15 C:     Earth's total magnetic field strength at Huntington, WV:     Vertical component of Earth's magnetic field strength at Huntington, WV:                   Page 3                                              Prefixes    giga [G]:  centi [c]:  nano [n]:    mega [M]:  milli [m]:  pico [p]:    kilo [k]:  micro [ ]:  femto [f]:       PHY 203                                                                                                                      Hydrogen Specturm Series       "
 },
 {
   "id": "subsec-Page-3-3",
@@ -37,13 +37,22 @@ var ptx_lunr_docs = [
   "body": " Prefixes    giga [G]:  centi [c]:  nano [n]:    mega [M]:  milli [m]:  pico [p]:    kilo [k]:  micro [ ]:  femto [f]:    "
 },
 {
+  "id": "subsec-PHY-203-2-106-1",
+  "level": "2",
+  "url": "notes-week-01.html#subsec-PHY-203-2-106-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Hydrogen Specturm Series "
+},
+{
   "id": "notes-week-02",
   "level": "1",
   "url": "notes-week-02.html",
   "type": "Section",
   "number": "",
-  "title": "Week 2",
-  "body": " Week 2   Monday      Wednesday      Friday     "
+  "title": "Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam",
+  "body": " Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam   PHY 211                                                                                                       "
 },
 {
   "id": "activity-01-intro-activity",
