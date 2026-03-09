@@ -1,24 +1,6 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus",
-  "level": "1",
-  "url": "syllabus.html",
-  "type": "Section",
-  "number": "",
-  "title": "Syllabus",
-  "body": " Syllabus        Course Information  This is the syllabus for course name (MATH xxx, section xxx) for [term] 20xx. It is a [n] credit course.    Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.       Course Overview        Assessments and Grades     "
-},
-{
-  "id": "sec-course-info-2",
-  "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "course name (MATH xxx, section xxx) "
-},
-{
   "id": "notes-week-01",
   "level": "1",
   "url": "notes-week-01.html",
@@ -52,43 +34,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam",
-  "body": " Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam   PHY 211                                                                                                       "
-},
-{
-  "id": "activity-01-intro-activity",
-  "level": "1",
-  "url": "activity-01-intro-activity.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
-},
-{
-  "id": "activity-01-intro-activity-3",
-  "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  This is the first exercise.   "
-},
-{
-  "id": "handouts",
-  "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Handouts",
-  "body": " Handouts    "
-},
-{
-  "id": "homework",
-  "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Homework",
-  "body": " Homework    "
+  "body": " Marshall University Calculus-based Introductory Physics Formula Sheet for Common Final Exam   PHY 211                                                                                                        Page 2                                             Density of air at sea level at 15$^\\circ$ C: Earth's total magnetic field strength at Huntington, WV: Vertical component of Earth's magnetic field strength at Huntington, WV:                 Page 3                                               Prefixes               Moments of Inertia                 PHY 213                                                                                                                                                  "
 }
 ]
 
